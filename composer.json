@@ -1,0 +1,20 @@
+{
+  "name":"paketim/paketadim",
+  "description":"Github test paketim.";
+  "keyword":["test","laravel","model fayli"],
+  "license":"MIT",
+  "authors":[
+    {
+      "name":"Ilkin Veliyev",
+      "email":"iveliyev_1993@bk.ru"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "Paketim\\Paketadim\\": "src/"
+    }
+  },
+  "version" : "1.0.0",
+  "minimum-stability" : "dev"
+
+}
